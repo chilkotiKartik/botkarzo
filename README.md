@@ -1,4 +1,3 @@
-Here’s a customized `README.md` file for your **Kartik Chilkoti AI Chatbot**, based on the original project but rebranded with your name and purpose:
 
 ---
 
